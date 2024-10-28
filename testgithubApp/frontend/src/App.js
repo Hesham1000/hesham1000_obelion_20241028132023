@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to the Task Management App</h1>
+        <h1>Welcome to Task Manager</h1>
       </header>
       <main>
         <CreateAccount />
